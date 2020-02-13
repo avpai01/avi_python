@@ -1,0 +1,12 @@
+1. git config --global
+2. git config --global user.name "avpai01"
+3. git config --global user.email "avpai01@gmail.com"
+4. git log
+5. git diff
+6. git diff --staged  (difference between repo and staging)
+7. git rm <<filename>>
+8. git -am <<>> (directly to repository and adds all the copies)
+9. git reset HEAD <<file name>>  Unstage files
+10.Getting Old Versions from the Repository -- git checkout 78a7a7571be3762da429cf6f46740d17fab3bcf8
+11. Giving a repo name: git remote add avi_git https://github.com/avpai01/test.git
+12. Pushing to Git: git push -u
