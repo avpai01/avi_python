@@ -10,3 +10,5 @@
 10.Getting Old Versions from the Repository -- git checkout 78a7a7571be3762da429cf6f46740d17fab3bcf8
 11. Giving a repo name: git remote add avi_git https://github.com/avpai01/test.git
 12. Pushing to Git: git push -u
+13. Fetching from the upstream: git fetch
+14. Updating your local commits: git rebase origin/master
