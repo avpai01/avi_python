@@ -4,16 +4,16 @@ dogs = 15
 
 
 if people < cats:
-	print('Too many cats! The world is doomed.')
+	print('Too many cats! The world is doomed!')
 
 if people > cats:
-	print('Not many cats! The world is saved.')
+	print('Not many cats! The world is saved!')
 
 if people < dogs:
-	print('Too many dogs! The world is doomed.')
+	print('The world is drooled on!')
 
 if people > dogs:
-	print('Not many dogs! The world is saved.')
+	print('The world is dry!')
 
 dogs += 5
 
@@ -25,3 +25,4 @@ if people <= dogs:
 
 if people == dogs:
 	print("People are dogs")
+
